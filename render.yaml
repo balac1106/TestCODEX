@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: ai-agent-reporter
+    env: docker
+    plan: starter
+    healthCheckPath: /health
+    envVars:
+      - key: ENABLE_INTERNAL_SCHEDULER
+        value: "true"
