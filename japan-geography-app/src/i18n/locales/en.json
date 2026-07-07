@@ -1,0 +1,93 @@
+{
+  "app": {
+    "title": "Japan Geography Quest",
+    "subtitle": "Discover Japan's Geography with Ease",
+    "description": "Based on Japanese middle and high school geography curriculum. Learn 47 prefectures, 8 regions, landforms, and climate through interactive games."
+  },
+  "nav": {
+    "home": "Home",
+    "explore": "Explore",
+    "quiz": "Quiz",
+    "map": "Map Challenge",
+    "flashcards": "Flashcards"
+  },
+  "home": {
+    "welcome": "Welcome to Japan Geography Quest!",
+    "startLearning": "Start Learning",
+    "modes": "Game Modes",
+    "stats": {
+      "prefectures": "Prefectures",
+      "regions": "Regions",
+      "topics": "Topics",
+      "questions": "Questions"
+    },
+    "modeDesc": {
+      "explore": "Browse Japan's 8 regions and 47 prefectures with local highlights",
+      "quiz": "Multiple-choice quiz covering landforms, climate, and prefectures",
+      "map": "Click the correct region on the map to train spatial memory",
+      "flashcards": "Flip cards to learn prefecture names, capitals, and fun facts"
+    }
+  },
+  "explore": {
+    "title": "Explore Japan",
+    "regions": "8 Regions",
+    "topics": "Textbook Highlights",
+    "prefectures": "Prefectures",
+    "capital": "Capital",
+    "selectRegion": "Select a region to view details"
+  },
+  "quiz": {
+    "title": "Geography Quiz",
+    "score": "Score",
+    "question": "Question {{current}} / {{total}}",
+    "correct": "Correct!",
+    "wrong": "Incorrect",
+    "explanation": "Explanation",
+    "next": "Next",
+    "finish": "See Results",
+    "restart": "Play Again",
+    "result": "Quiz Complete!",
+    "resultMsg": "You got {{score}} / {{total}} correct"
+  },
+  "map": {
+    "title": "Map Challenge",
+    "instruction": "Click the correct region on the map",
+    "whichRegion": "Which region is \"{{name}}\" in?",
+    "correct": "Correct!",
+    "wrong": "Try again",
+    "score": "Streak",
+    "round": "Round {{current}}"
+  },
+  "flashcards": {
+    "title": "Flashcards",
+    "tapToFlip": "Tap card to flip",
+    "capital": "Capital",
+    "fact": "Fun Fact",
+    "prev": "Previous",
+    "next": "Next",
+    "shuffle": "Shuffle",
+    "progress": "{{current}} / {{total}}"
+  },
+  "regions": {
+    "hokkaido": "Hokkaido",
+    "tohoku": "Tohoku",
+    "kanto": "Kanto",
+    "chubu": "Chubu",
+    "kansai": "Kansai",
+    "chugoku": "Chugoku",
+    "shikoku": "Shikoku",
+    "kyushu": "Kyushu & Okinawa"
+  },
+  "categories": {
+    "location": "Location & Territory",
+    "landform": "Landforms",
+    "climate": "Climate",
+    "disaster": "Natural Disasters",
+    "population": "Population & Cities"
+  },
+  "lang": {
+    "zh-TW": "繁體中文",
+    "en": "English",
+    "ja": "日本語"
+  }
+}
