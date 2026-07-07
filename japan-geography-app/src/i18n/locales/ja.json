@@ -1,0 +1,93 @@
+{
+  "app": {
+    "title": "日本地理探検",
+    "subtitle": "気軽に日本の地理を学ぼう",
+    "description": "中学校・高校の地理教科書をベースに、47都道府県・8地方・地形・気候をゲームで学べます。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "explore": "探索",
+    "quiz": "クイズ",
+    "map": "地図チャレンジ",
+    "flashcards": "フラッシュカード"
+  },
+  "home": {
+    "welcome": "日本地理探検へようこそ！",
+    "startLearning": "学習を始める",
+    "modes": "ゲームモード",
+    "stats": {
+      "prefectures": "都道府県",
+      "regions": "地方",
+      "topics": "学習テーマ",
+      "questions": "問題数"
+    },
+    "modeDesc": {
+      "explore": "日本の8地方と47都道府県の特色を学ぶ",
+      "quiz": "地形・気候・都道府県などの選択式クイズ",
+      "map": "地図上で正しい地方を選び、空間認識を鍛える",
+      "flashcards": "都道府県名・県庁所在地・豆知識をカードで暗記"
+    }
+  },
+  "explore": {
+    "title": "日本地理を探索",
+    "regions": "8地方",
+    "topics": "教科書の要点",
+    "prefectures": "都道府県一覧",
+    "capital": "県庁所在地",
+    "selectRegion": "地方を選んで詳細を見る"
+  },
+  "quiz": {
+    "title": "地理クイズ",
+    "score": "得点",
+    "question": "第 {{current}} / {{total}} 問",
+    "correct": "正解！",
+    "wrong": "不正解",
+    "explanation": "解説",
+    "next": "次へ",
+    "finish": "結果を見る",
+    "restart": "もう一度",
+    "result": "クイズ完了！",
+    "resultMsg": "{{score}} / {{total}} 問正解"
+  },
+  "map": {
+    "title": "地図チャレンジ",
+    "instruction": "地図上で正しい地方をクリック",
+    "whichRegion": "「{{name}}」はどの地方？",
+    "correct": "正解！",
+    "wrong": "もう一度",
+    "score": "連続正解",
+    "round": "第 {{current}} ラウンド"
+  },
+  "flashcards": {
+    "title": "フラッシュカード",
+    "tapToFlip": "カードをタップして裏返す",
+    "capital": "県庁所在地",
+    "fact": "豆知識",
+    "prev": "前へ",
+    "next": "次へ",
+    "shuffle": "シャッフル",
+    "progress": "{{current}} / {{total}}"
+  },
+  "regions": {
+    "hokkaido": "北海道",
+    "tohoku": "東北",
+    "kanto": "関東",
+    "chubu": "中部",
+    "kansai": "近畿（関西）",
+    "chugoku": "中国",
+    "shikoku": "四国",
+    "kyushu": "九州・沖縄"
+  },
+  "categories": {
+    "location": "位置と領域",
+    "landform": "地形",
+    "climate": "気候",
+    "disaster": "自然災害",
+    "population": "人口と都市"
+  },
+  "lang": {
+    "zh-TW": "繁體中文",
+    "en": "English",
+    "ja": "日本語"
+  }
+}

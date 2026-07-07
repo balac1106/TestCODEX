@@ -1,0 +1,93 @@
+{
+  "app": {
+    "title": "日本地理探險",
+    "subtitle": "輕鬆認識日本地理環境",
+    "description": "以日本中學・高中地理課程為基礎，透過互動遊戲學習 47 都道府縣、8 大地區、地形與氣候。"
+  },
+  "nav": {
+    "home": "首頁",
+    "explore": "探索學習",
+    "quiz": "地理測驗",
+    "map": "地圖挑戰",
+    "flashcards": "閃卡記憶"
+  },
+  "home": {
+    "welcome": "歡迎來到日本地理探險！",
+    "startLearning": "開始學習",
+    "modes": "遊戲模式",
+    "stats": {
+      "prefectures": "都道府縣",
+      "regions": "大地區",
+      "topics": "學習主題",
+      "questions": "測驗題目"
+    },
+    "modeDesc": {
+      "explore": "瀏覽日本 8 大地區與 47 都道府縣，了解各地特色",
+      "quiz": "選擇題測驗，涵蓋地形、氣候、都道府縣等知識",
+      "map": "在地圖上點選正確地區，訓練空間記憶",
+      "flashcards": "翻卡學習都道府縣名稱、首府與趣味知識"
+    }
+  },
+  "explore": {
+    "title": "探索日本地理",
+    "regions": "8 大地區",
+    "topics": "課本重點",
+    "prefectures": "都道府縣一覽",
+    "capital": "首府",
+    "selectRegion": "選擇地區查看詳情"
+  },
+  "quiz": {
+    "title": "地理測驗",
+    "score": "得分",
+    "question": "第 {{current}} / {{total}} 題",
+    "correct": "答對了！",
+    "wrong": "答錯了",
+    "explanation": "解說",
+    "next": "下一題",
+    "finish": "查看結果",
+    "restart": "再玩一次",
+    "result": "測驗完成！",
+    "resultMsg": "你答對了 {{score}} / {{total}} 題"
+  },
+  "map": {
+    "title": "地圖挑戰",
+    "instruction": "點選地圖上正確的地區",
+    "whichRegion": "「{{name}}」屬於哪個地區？",
+    "correct": "正確！",
+    "wrong": "再試一次",
+    "score": "連續答對",
+    "round": "第 {{current}} 輪"
+  },
+  "flashcards": {
+    "title": "閃卡記憶",
+    "tapToFlip": "點擊卡片翻面",
+    "capital": "首府",
+    "fact": "趣味知識",
+    "prev": "上一張",
+    "next": "下一張",
+    "shuffle": "隨機排序",
+    "progress": "{{current}} / {{total}}"
+  },
+  "regions": {
+    "hokkaido": "北海道",
+    "tohoku": "東北",
+    "kanto": "關東",
+    "chubu": "中部",
+    "kansai": "近畿（關西）",
+    "chugoku": "中國",
+    "shikoku": "四國",
+    "kyushu": "九州・沖繩"
+  },
+  "categories": {
+    "location": "位置與領域",
+    "landform": "地形",
+    "climate": "氣候",
+    "disaster": "自然災害",
+    "population": "人口與都市"
+  },
+  "lang": {
+    "zh-TW": "繁體中文",
+    "en": "English",
+    "ja": "日本語"
+  }
+}
